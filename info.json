@@ -7,6 +7,7 @@
   "sizes" : [
     {"width" : 150, "height" : 100},
     {"width" : 799, "height" : 533},
+  ,  
   ],
   "profile" : [ "http://iiif.io/api/image/2/level2.json" ],
   "attribution" : "Provided by Example Organization",
