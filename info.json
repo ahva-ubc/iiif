@@ -1,0 +1,18 @@
+{
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "@id" : "https://ahva-ubc.github.io/iiif/ognissanti.jpg",
+  "protocol" : "http://iiif.io/api/image",
+  "width" : 799,
+  "height" : 533,
+  "sizes" : [
+    {"width" : 150, "height" : 100},
+    {"width" : 799, "height" : 533},
+  ],
+  "tiles": [
+    {"width" : 512, "scaleFactors" : [1,2,4,8,16]}
+  ],
+  "profile" : [ "http://iiif.io/api/image/2/level2.json" ],
+  "attribution" : "Provided by Example Organization",
+  "logo" : "http://example.org/images/logo.png",
+  "license" : "http://rightsstatements.org/vocab/InC-EDU/1.0/"
+}
