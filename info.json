@@ -1,6 +1,6 @@
 {
   "@context" : "http://iiif.io/api/image/2/context.json",
-  "@id" : "https://ahva-ubc.github.io/iiif/ognissanti.jpg",
+  "@id" : "https://ahva-ubc.github.io/iiif/ognissanti",
   "protocol" : "http://iiif.io/api/image",
   "width" : 799,
   "height" : 533,
